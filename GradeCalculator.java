@@ -31,7 +31,7 @@ import java.util.Scanner;
 
 	String result = calculateGrade(getStudentScore);
 
-	System.out.println(getStudentScore + " corresponds to grade: " + result);
+	System.out.println("Your Grade is: " + result);
 scanner.close();
 	}
 }
